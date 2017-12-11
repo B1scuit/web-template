@@ -1,0 +1,1 @@
+//=require documentLoad/console.js
