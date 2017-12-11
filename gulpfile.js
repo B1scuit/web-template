@@ -81,7 +81,7 @@ gulp.task('sprite', function () {
                     bust: true,
                     render: {
                         sass: {
-                            template: "./resources/sass/template/_sprite-template.scss",
+                            template: "./resources/sass/template/_sprite-template.sass",
                             dest: "./../../resources/sass/components/_sprite",
                         }
                     },
